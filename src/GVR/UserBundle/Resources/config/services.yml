@@ -1,0 +1,4 @@
+services:
+#    gvr_user.example:
+#        class: GVR\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
